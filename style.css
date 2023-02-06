@@ -70,6 +70,7 @@ body {
   background-color: white;
   color: var(--desaturated-blue);
   border: none;
+  padding: 1rem 0;
   margin-top: 22px;
   width: 100%;
   font-weight: 700;
@@ -79,6 +80,8 @@ body {
 }
 .cancel-button:hover{
   color: black;
+  background-color: rgba(235, 234, 234, 0.904);
+
 }
 .plan-container{
   font-size: 16px;
